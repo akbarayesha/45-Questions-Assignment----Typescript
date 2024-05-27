@@ -3,11 +3,11 @@
 
 // Create a variable called Alien Color.
 
-let alien_color: string = "White";
+let alien_color: string = "Green";
 
 // Write an if statement to test whether the alien’s color is green. If it is, print a message that the player just earned 5 points.
 
-if(alien_color === 'White'){
+if(alien_color === 'Green'){
     console.log("Player just earned 5 points!")
 }
 
